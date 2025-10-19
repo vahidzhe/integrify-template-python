@@ -1,5 +1,6 @@
-{replace}:
+{Replace}:
   - Ümumi məlumat: "integrations/{replace}/about.md"
+  - Mühit dəyişənləri: "integrations/{replace}/env.md"
   - API Referansı:
     - API Klient: "integrations/{replace}/api-reference/client.md"
     - Schemas:

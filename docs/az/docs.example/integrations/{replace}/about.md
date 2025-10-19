@@ -1,7 +1,7 @@
 # {replace}
 
 ???+ warning
-    Bu sorğulardan istifadə etmək üçün, bu dəyərləri "environment variable"-larına əlavə etməlisiniz: `{replace}`
+    Bu sorğulardan istifadə edə bilmək üçün, düzgün "environment variable"-ları quraşdırmalısınız. Daha ətraflı [burdan](./env.md) oxuya bilərsiniz.
 
 ## Rəsmi Dokumentasiya ({replace}) { #official-documentation }
 
